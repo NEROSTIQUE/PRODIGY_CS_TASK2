@@ -24,14 +24,17 @@ Row Swapping: Half of the image’s rows are flipped vertically to add a layer o
 Decryption: The process is reversed using the same key to retrieve the original image.
 
 🧑‍💻 Requirements
+
 Python 3.7+
 
 Pillow
 
 Install dependencies using:
 
+pip install pillow
 
 🔐 Example
+
 Original Image → Encrypt with key 123 → Encrypted Image
 
 Encrypted Image → Decrypt with same key 123 → Original Image
