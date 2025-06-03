@@ -1,7 +1,9 @@
 🔐 Image Encryption and Decryption Tool
+
 A lightweight and user-friendly Image Encryption Tool built using Python, Tkinter, and Pillow (PIL). This application allows users to securely encrypt and decrypt images using simple pixel manipulation techniques and a secret key. Ideal for educational purposes, lightweight image protection, or just exploring how pixel-level image processing works.
 
 🚀 Features
+
 ✅ Encrypt any image using a numeric key.
 
 🔄 Decrypt images encrypted with the tool using the same key.
